@@ -1,0 +1,15 @@
+{
+  "name": "com.yoobao.sdk",
+  "version": "0.1.0",
+  "displayName": "YooBao SDK",
+  "description": "YooBao 平台与游戏 Plugin 之间的统一协议、数据结构与序列化入口。不依赖 Unity，也不依赖任何具体游戏。",
+  "unity": "2022.3",
+  "author": {
+    "name": "Zhao Junbo"
+  },
+  "keywords": [
+    "yoobao",
+    "plugin",
+    "protocol"
+  ]
+}
